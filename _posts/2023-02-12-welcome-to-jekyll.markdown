@@ -1,29 +1,14 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
+title:  "My Technical Writing Journey"
 date:   2023-02-12 13:16:18 -0500
-categories: jekyll update
+categories: personal posts
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Hi! I'm Isabella Goss, a technical writer based in the Hampton Roads area of Virginia, USA. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I fell in love with reading at a young age, and in my early teens, graudated from YA fiction and easy readers to my mom's IT textbooks. In the pages of those textbooks I fell in love with technical writing, although I didn't know it yet! After a brief (failed) stint as  a civil engineering student in NC State University's College of Engineering, I transferred to the Technology, Engineering, and Design Education department at NC State, where I combined my love of written technical communication with visual communication. I eventually graudated with a B.S. in Graphics Communications, but not before I spent my summers freeelancing as a web content writer and journalist! 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Today, I work as a technical writer at [Twilio Segment](https://segment.com/), where I document Segment's ingestion, processing, and governance features.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Follow along my technical writing journey!

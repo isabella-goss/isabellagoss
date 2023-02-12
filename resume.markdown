@@ -6,9 +6,9 @@ permalink: /resume/
 
 I am an early-career technical writer with two years of full-time software documentation experience and six years of professional writing experience.
 
-I graduated in 2021 from North Carolina State University with a major in Graphics Communications and two minors: one in Technical and Scientific Communications and another in Science Communication. I'm the Swiss Army Knife of technical communicators: I can write succinct technical documentation, create crisp, well-defined technical drawings, and can code documentation sites (from scratch)!
+I graduated in 2021 from North Carolina State University with a major in Graphics Communications and two minors: one in Technical and Scientific Communications and another in Science Communication. I'm the Swiss Army Knife of technical communicators: I can write succinct technical documentation, create crisp, well-defined technical drawings, and can build documentation sites (like this one).
 
-In my free time, I enjoy baking, embroidery, and spending time with my son.
+In my free time, I enjoy baking, embroidery, and reading a good book!
 
 While my day job involves producing technical documentation, I haven't lost my spark for writing conversational, informal pieces!
 
@@ -21,7 +21,7 @@ __B.S Technology, Engineering, and Design - Graphic Communications__
 ## Work Experience
 My work experience, organized chronologically.
 
-### Twilio-Segment
+### Twilio Segment
 **Technical Writer II** <br/>
 ___Remote, October 2021- Present___
 * Distill information from various sources to produce concise, accurate, and timely documentation 
